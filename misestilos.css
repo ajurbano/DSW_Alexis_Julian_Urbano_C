@@ -23,6 +23,7 @@ margin: 0 auto;
 }
 
 #menu{
+   
 max-width: 10000px;
 min-height: 30px;
 
@@ -45,7 +46,6 @@ font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
 font-size: 20px;
 margin-top: 5px;
 margin-bottom: 5px;
-/*max-width: 10000px;*/
 }
 
 #menu ul ul{
@@ -76,7 +76,6 @@ footer{
     min-height: 20px;
     margin: 0;
     background: black;
-  /* background-color: #005883;*/
   color: white;
   text-align: center;
   font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
