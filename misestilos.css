@@ -11,13 +11,14 @@ body{
 }
 
 
-header
+/*header
 {
 max-width: 10000px;
 min-height: 10px;
 background-color:white;
 margin: 0 auto;
-}
+
+}*/
 .titulo{
     text-align: center;
 }
